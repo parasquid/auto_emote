@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "auto_emote"
   gem.homepage = "http://github.com/parasquid/auto_emote"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Automatically replaces emoticons with images}
+  gem.description = %Q{Automatically replaces emoticons with images}
   gem.email = "tristan.gomez@gmail.com"
   gem.authors = ["tristan"]
   # dependencies defined in Gemfile
