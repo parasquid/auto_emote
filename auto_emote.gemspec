@@ -17,7 +17,20 @@ Gem::Specification.new do |s|
     "README.rdoc"
   ]
   s.files = [
-    "VERSION"
+    ".document",
+    "Gemfile",
+    "Gemfile.lock",
+    "LICENSE.txt",
+    "README.rdoc",
+    "Rakefile",
+    "VERSION",
+    "auto_emote.gemspec",
+    "lib/auto_emote.rb",
+    "lib/auto_emote/helpers.rb",
+    "nbproject/private/config.properties",
+    "nbproject/private/private.properties",
+    "nbproject/project.properties",
+    "nbproject/project.xml"
   ]
   s.homepage = "http://github.com/parasquid/auto_emote"
   s.licenses = ["MIT"]
